@@ -1,6 +1,6 @@
 {
-    "title": "de.constructor.app.baumemo",
-    "identifier": "com.chris.build",
+    "title": "BM",
+    "identifier": "de.constructor.app.baumemo",
     "orientation": "auto",
     "versioncode": 1,
     "versionname": "1.0",
