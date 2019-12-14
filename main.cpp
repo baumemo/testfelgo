@@ -20,7 +20,10 @@ int main(int argc, char *argv[])
 
     // Set an optional license key from project file
     // This does not work if using Felgo Live, only for Felgo Cloud Builds and local builds
+#ifdef PRODUCT_LICENSE_KEY
     felgo.setLicenseKey(PRODUCT_LICENSE_KEY);
+#endif
+
 
     // use this during development
     // for PUBLISHING, use the entry point below
