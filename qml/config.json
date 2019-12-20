@@ -1,8 +1,8 @@
 {
-    "title": "BM",
+    "title": "testfelgo",
     "identifier": "de.constructor.test",
     "orientation": "auto",
     "versioncode": 1,
-    "versionname": "1.0",
+    "versionname": "1.0.0",
     "stage": "publish"
 }
